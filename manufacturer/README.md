@@ -1,3 +1,5 @@
+### 手机厂商适配相关
+
 * vivo OriginOS中打开指定APP的通知权限设置页面
   
   ```kotlin
